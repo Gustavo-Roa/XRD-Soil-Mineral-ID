@@ -5,8 +5,8 @@
 
 **XRD-Soil-Mineral-ID** is a Python-based tool for semi-quantitative identification and visualization of soil minerals from X-ray diffraction (XRD) data. The script detects peaks, matches them with known minerals, and estimates relative abundances using peak area and reference intensity ratios (RIRs).
 
-Developed by **Eduardo Gutierrez Brito**  
-Contributor: **Gustavo A. Roa** ([@Gustavo-Roa](https://github.com/Gustavo-Roa))
+Developed by **Eduardo Gutierrez**  
+Contributor: **Gustavo Roa** ([@Gustavo-Roa](https://github.com/Gustavo-Roa))
 
 > [![DOI](https://zenodo.org/badge/1019710134.svg)](https://doi.org/10.5281/zenodo.15882593)
 
@@ -112,7 +112,7 @@ Ensure the file is located in the `data/` folder with the name `soil_xrd_data_ex
 
 If you use this repository, please cite:
 
-> Gutierrez, E., & Roa, G. A. (2025). *XRD-Soil-Mineral-ID: A tool for semi-quantitative identification of soil minerals using XRD data.*  
+> Gutierrez, E.E., & Roa, G. A. (2025). *XRD-Soil-Mineral-ID: A tool for semi-quantitative identification of soil minerals using XRD data.*  
 > [![DOI](https://zenodo.org/badge/1019710134.svg)](https://doi.org/10.5281/zenodo.15882593)
 
 ---
