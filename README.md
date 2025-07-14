@@ -8,6 +8,8 @@
 Developed by **Eduardo Gutierrez Brito**  
 Contributor: **Gustavo A. Roa** ([@Gustavo-Roa](https://github.com/Gustavo-Roa))
 
+> [![DOI](https://zenodo.org/badge/1019710134.svg)](https://doi.org/10.5281/zenodo.15882593)
+
 ---
 
 ## 📁 Folder Structure
