@@ -1,7 +1,7 @@
 
 ---
 
-# XRD-Soil-Mineral-ID
+# XRD-Soil-Mineral-ID: A tool for semi-quantitative identification of soil minerals using XRD data
 
 **XRD-Soil-Mineral-ID** is a Python-based tool for semi-quantitative identification and visualization of soil minerals from X-ray diffraction (XRD) data. The script detects peaks, matches them with known minerals, and estimates relative abundances using peak area and reference intensity ratios (RIRs).
 
