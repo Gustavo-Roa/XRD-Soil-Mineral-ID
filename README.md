@@ -111,7 +111,7 @@ Ensure the file is located in the `data/` folder with the name `soil_xrd_data_ex
 If you use this repository, please cite:
 
 > Gutierrez, E., & Roa, G. A. (2025). *XRD-Soil-Mineral-ID: A tool for semi-quantitative identification of soil minerals using XRD data.*  
-> DOI: []
+> [![DOI](https://zenodo.org/badge/1019710134.svg)](https://doi.org/10.5281/zenodo.15882593)
 
 ---
 
